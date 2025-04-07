@@ -1,0 +1,17 @@
+.card-actions img {
+  width: 30px;
+  height: 30px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.legend img {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+}

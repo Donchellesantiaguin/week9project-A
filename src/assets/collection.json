@@ -1,0 +1,82 @@
+[
+  {
+    "rank": 1,
+    "slug": "the-little-mermaid",
+    "name": "The Little Mermaid",
+    "year": 1989,
+    "inspiration": "Under the sea",
+    "cover": "mermaid.jpg"
+  },
+  {
+    "rank": 2,
+    "slug": "mulan",
+    "name": "Mulan",
+    "year": 1998,
+    "inspiration": "Ancient China",
+    "cover": "mulan.jpg"
+  },
+  {
+    "rank": 3,
+    "slug": "cinderella",
+    "name": "Cinderella",
+    "year": 1950,
+    "inspiration": "Fairytale Kingdom",
+    "cover": "cinderella.jpg"
+  },
+  {
+    "rank": 4,
+    "slug": "snow-white",
+    "name": "Snow White",
+    "year": 1937,
+    "inspiration": "The forest",
+    "cover": "snowwhite.jpg"
+  },
+  {
+    "rank": 5,
+    "slug": "beauty-and-the-beast",
+    "name": "Beauty and the Beast",
+    "year": 1991,
+    "inspiration": "French countryside",
+    "cover": "beast.jpg"
+  },
+  {
+    "rank": 6,
+    "slug": "tangled",
+    "name": "Tangled",
+    "year": 2010,
+    "inspiration": "Medieval Europe",
+    "cover": "tangled.jpg"
+  },
+  {
+    "rank": 7,
+    "slug": "pocahontas",
+    "name": "Pocahontas",
+    "year": 1995,
+    "inspiration": "America's wilderness",
+    "cover": "pocahontas.jpg"
+  },
+  {
+    "rank": 8,
+    "slug": "the-swan-princess",
+    "name": "The Swan Princess",
+    "year": 1994,
+    "inspiration": "Magical kingdom",
+    "cover": "swan.jpg"
+  },
+  {
+    "rank": 9,
+    "slug": "anastasia",
+    "name": "Anastasia",
+    "year": 1997,
+    "inspiration": "Russia",
+    "cover": "ana.jpg"
+  },
+  {
+    "rank": 10,
+    "slug": "sleeping-beauty",
+    "name": "Sleeping Beauty",
+    "year": 1959,
+    "inspiration": "Fairyland",
+    "cover": "sleeping.jpg"
+  }
+]
